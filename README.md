@@ -1,3 +1,3 @@
 # k-nearest-neighbors
 
-Fitting knn model for classification.
+Fitted a knn model for classification.
